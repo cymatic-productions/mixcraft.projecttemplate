@@ -4,6 +4,10 @@
 
 
 # Tips for Development
+
+## Viewing the Project
+* This application has been deployed [here](https://cymatic-productions.github.io/mixcraft.projecttemplate/)
+
 ## Ensuring Portability
 ### Overview
 * To ensure full-portability of your project, ensure `SFX`, `Loops`, and most importantly, `stems` are exported locally to the project.
