@@ -4,7 +4,18 @@
 
 
 # Tips for Development
-## Changing Folder of Stored Imported Loops and SFX
+## Ensuring Portability
+### Overview
+* To ensure full-portability of your project, ensure `SFX`, `Loops`, and most importantly, `stems` are exported locally to the project.
+ * a `stems` directory has been created for you.
+
+1. Exporting / Importing Tracks As-is
+2. Exporting / Importing Stored Imported Loops and SFX to Local Project Folder
+
+#### Exporting / Importing Tracks As-is
+* Select `Mix to Stems` and set the `File Naming Convention` to `{#} - {n}`
+
+#### Exporting / Importing Stored Imported Loops and SFX to Local Project Folder
 * To [change the folder of stored imported loops and sfx](https://forums.acoustica.com/viewtopic.php?t=30022), perform the steps below.
 * Navigate to `File` > `Preferences` > `Library` set the `Loop Library Directory` library folder.  
   * _Note_
