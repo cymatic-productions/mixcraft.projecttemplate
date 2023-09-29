@@ -5,6 +5,19 @@
 
 # Tips for Development
 
+## Merging Clips Without Crossfade
+* Create a new Track.
+* Select the newly created Track.
+* Press `Alt+L` to create a new "Lane".
+ * a "Lane" is a way to have multiple clips at the same time offset without being on top of each other.
+* Right click the newly created multilane track.
+* Select `Mix to New Audio Track`, to merge the clips.
+
+## Controlling Multiple Tracks
+* Select the Tracks (_not the clips_) to be grouped.
+* Right click the selection
+* Select `Add New Submix` to group the selected tracks to a single "Submix".
+
 ## Viewing the Project
 * This application has been deployed [here](https://cymatic-productions.github.io/mixcraft.projecttemplate/)
 
