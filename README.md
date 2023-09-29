@@ -6,7 +6,7 @@
 # Tips for Development
 
 ## Merging Clips Without Crossfade
-_Read more [here](https://forums.acoustica.com/viewtopic.php?t=15397)_
+_Learn more [here](https://forums.acoustica.com/viewtopic.php?t=15397)_
 * Create a new Track.
 * Select the newly created Track.
 * Press `Alt+L` to create a new "Lane".
@@ -15,6 +15,7 @@ _Read more [here](https://forums.acoustica.com/viewtopic.php?t=15397)_
 * Select `Mix to New Audio Track`, to merge the clips.
 
 ## Controlling Multiple Tracks
+_Learn more [here](https://www.youtube.com/watch?v=W0ClXPfhCEg)_
 * Select the Tracks (_not the clips_) to be grouped.
 * Right click the selection
 * Select `Add New Submix` to group the selected tracks to a single "Submix".
