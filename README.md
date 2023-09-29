@@ -6,6 +6,7 @@
 # Tips for Development
 
 ## Merging Clips Without Crossfade
+_Read more [here](https://forums.acoustica.com/viewtopic.php?t=15397)_
 * Create a new Track.
 * Select the newly created Track.
 * Press `Alt+L` to create a new "Lane".
