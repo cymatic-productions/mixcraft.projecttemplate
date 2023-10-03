@@ -5,6 +5,9 @@
 
 # Tips for Development
 
+## Converting `.mp3` to `.midi`
+* The `plugins/NeuralNote.exe` application can be used to convert `.mp3` to `.midi` files.
+
 ## Merging Clips Without Crossfade
 _Learn more [here](https://forums.acoustica.com/viewtopic.php?t=15397)_
 * Create a new Track.
