@@ -5,6 +5,9 @@
 
 # Tips for Development
 
+## External MIDI Controls
+* View [this video](https://www.youtube.com/watch?v=GG81OfTMigQ)
+
 ## Converting `.mp3` to `.midi`
 * The `plugins/NeuralNote.exe` application can be used to convert `.mp3` to `.midi` files.
 
